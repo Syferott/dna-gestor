@@ -1,0 +1,8 @@
+{
+  "name": "DNA Gestor 1.0",
+  "description": "Gerenciador de Pedidos, orçamentos, contas a pagar e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
